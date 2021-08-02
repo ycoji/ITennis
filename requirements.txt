@@ -1,0 +1,4 @@
+chromedriver-binary==91.0.4472.101.0
+schedule==1.1.0
+selenium==3.141.0
+urllib3==1.26.6

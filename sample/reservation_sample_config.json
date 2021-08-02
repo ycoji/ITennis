@@ -1,0 +1,9 @@
+{
+    "user_id": "hoge",
+    "pass": "fuga",
+    "requests": [{"type": "reservation",
+                  "param": {"place": "shinyoko",
+                            "date": "20210829",
+                            "time": "15:00"}}
+                ]
+} 
